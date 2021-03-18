@@ -22,6 +22,13 @@ public class Test01 extends A implements Cloneable{
     public static void main(String[] args) {
         Object o = new Object();
         System.out.println(o.hashCode());
+        System.out.println("要很多..");
+        System.out.println("增加数据");
+        System.out.println("要很多..");
+        System.out.println("增加数据");
+        System.out.println("要很多..");
+        System.out.println("增加数据");
+
     }
 
 
