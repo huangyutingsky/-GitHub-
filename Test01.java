@@ -22,7 +22,6 @@ public class Test01 extends A implements Cloneable{
     public static void main(String[] args) {
         Object o = new Object();
         System.out.println(o.hashCode());
-        System.out.println("什么鬼");
 
     }
 
@@ -31,16 +30,12 @@ public class Test01 extends A implements Cloneable{
 
 class A{
     String name;
-    int addwwww;
 
     public A(String name) {
         this.name = name;
     }
 
     public final void method1(){
-        System.out.println("A类方法一");
-        System.out.println("A类方法一addddddzzzzz");
-        System.out.println("A类方法一addddddzzzzz");
-        System.out.println("增加点东西》》》》》");
+        System.out.println("把你泉山了！");
     }
 }
