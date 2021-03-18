@@ -31,7 +31,7 @@ public class Test01 extends A implements Cloneable{
 
 class A{
     String name;
-    int add;
+    int addwwww;
 
     public A(String name) {
         this.name = name;
@@ -39,6 +39,7 @@ class A{
 
     public final void method1(){
         System.out.println("A类方法一");
+        System.out.println("A类方法一addddddzzzzz");
         System.out.println("A类方法一addddddzzzzz");
     }
 }
