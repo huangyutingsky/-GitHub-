@@ -41,5 +41,6 @@ class A{
         System.out.println("A类方法一");
         System.out.println("A类方法一addddddzzzzz");
         System.out.println("A类方法一addddddzzzzz");
+        System.out.println("增加点东西》》》》》");
     }
 }
