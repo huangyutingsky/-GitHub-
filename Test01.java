@@ -39,6 +39,6 @@ class A{
 
     public final void method1(){
         System.out.println("A类方法一");
-        System.out.println("A类方法一addw");
+        System.out.println("A类方法一adddddd");
     }
 }
