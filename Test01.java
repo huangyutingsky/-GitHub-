@@ -22,7 +22,9 @@ public class Test01 extends A implements Cloneable{
     public static void main(String[] args) {
         Object o = new Object();
         System.out.println(o.hashCode());
+        System.out.println("wdwdawd");
         System.out.println("...");
+        System.out.println("全都要！");
     }
 
 
